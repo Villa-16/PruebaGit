@@ -1,0 +1,8 @@
+
+#Ignora todos los archivos .clase
+*.class  
+#Se ignora a si mismo
+#  /*.gitignore
+#Ignora la carpeta miDir y su contenido
+miDir/     
+
